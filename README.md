@@ -10,11 +10,11 @@
 <h1>課程筆記區</h1>
 
 <h1>作業連結區</h1>
-* [作業一] (https://youtu.be/RRaEDegEUog)
+* [作業一](https://youtu.be/RRaEDegEUog)
 
 * [作業二](https://youtu.be/bk8yow4IDlA)
 
-*[作業三] (https://youtu.be/0S82z4g5cN8 
+* [作業三](https://youtu.be/0S82z4g5cN8 
 
 <h1>專題連結區</h1>
 
