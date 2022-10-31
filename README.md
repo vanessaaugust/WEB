@@ -14,7 +14,7 @@
 [作業一：]</a>
 
 - <a href="https://youtu.be/bk8yow4IDlA">
-[作業二]</a>
+[作業二：]</a>
 
 - <a href="https://youtu.be/0S82z4g5cN8">
 [作業三：]</a>
